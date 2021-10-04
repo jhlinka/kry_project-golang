@@ -1,2 +1,8 @@
 # kry_project-golang
-Golang project for KRY subject
+A simple golang project to simulate communcation between two hosts. It's main focus is to implement simple cryptographic protocols which are using elliptic curves.
+ 
+
+### Implemented protocols are:
+- ECDH
+- ECIES
+- ECDSA
